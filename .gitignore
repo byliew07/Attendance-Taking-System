@@ -1,0 +1,13 @@
+Ignore JetBrains IDE (PyCharm, IntelliJ) specific files
+
+.idea/
+
+Ignore Python bytecode cache
+
+pycache/
+*.pyc
+*.pyo
+
+Ignore .csv file
+
+*.csv
