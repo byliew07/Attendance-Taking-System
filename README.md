@@ -1,5 +1,5 @@
 # CheckMeIN: The Swinburne GUI Attendance Tracker 📝
-Welcome to **CheckMeIN**! 👋 This is a lightweight and powerful attendance-tracking system that runs entirely from your terminal.
+Welcome to **CheckMeIN**! 👋 This is a lightweight and powerful attendance-tracking system that runs entirely as a Python file.
 
 It was built as a **Foundation in Programming project at Swinburne Sarawak** and is perfect for learning about data persistence (using *CSVs*), user roles, and modular programming.
 
