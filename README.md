@@ -68,7 +68,7 @@ This project is split into three clean modules to keep things organized:
 ## 💻 Tech Stack
 * **Python 3** 🐍
 * **Python** `csv` **Module** (built-in) 🗃️
-* **Tkinter** (for the v2.0 GUI) 🖥️
+* **Python** `tkinter` **Module** (for the v2.0 GUI) 🖥️
   
 Built with simplicity in mind. No external libraries needed!
 
